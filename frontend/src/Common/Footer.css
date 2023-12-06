@@ -1,0 +1,9 @@
+.footer-base{
+    background-color: skyblue;
+    text-align: center;
+    height: 40px;
+
+}
+.footer-base h2{
+    padding-top: 3px;
+}

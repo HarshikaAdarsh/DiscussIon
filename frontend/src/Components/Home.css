@@ -1,0 +1,14 @@
+.userhome-base{
+    background-color: lightgray;
+    height: 780px;
+}
+
+.userhome-image{
+    background-image: url(./Images/userbg.png);
+    height:100%;
+    width: 100%;
+    background-size: 100% 100%;
+    margin-top: 0px;
+    
+   
+}

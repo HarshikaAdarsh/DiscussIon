@@ -1,0 +1,66 @@
+h1{
+    text-decoration: underline;
+}
+
+.mynews-base{
+    background-color: rgb(255, 247, 247);
+}
+
+.mynews-main{
+    margin-top: 10px;
+    background-color: rgba(252, 219, 219,.4);
+    border-radius: 10px;
+    padding: 20px;
+    height:  780px;
+}
+
+.mynews-news{
+    background-color: rgba(248, 217, 217,.8);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.mynews-index{
+    display: inline;
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+}
+
+.mynews-heading{
+    display: inline;
+    font-size: 30px;
+    color: brown;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.mynews-subheading{
+    font-size: 20px;
+    color: rgb(122, 73, 73);
+    font-weight: bold;
+}
+
+.mynews-content{
+    font-size: 18px;
+    color: rgb(71, 28, 28);
+}
+
+.mynews-edit{
+    font-size: 25px;
+    margin-left: 3vw;
+}
+
+.mynews-delete{
+    font-size: 25px;
+    padding: 7px;
+    margin-left: 1vw;
+    color: red;
+    cursor: pointer;
+    transition: all .4s;
+}
+.mynews-delete:hover{
+    border-radius: 5px;
+    background-color: rgb(224, 202, 202);
+}

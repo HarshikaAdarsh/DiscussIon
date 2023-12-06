@@ -1,0 +1,33 @@
+.editnewsuser-main{
+    background-color: rgb(232, 243, 223);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.editnewsuser-main2{
+    background-color: rgb(240, 246, 235);
+    height:  780px;
+}
+ 
+.editnewsuser-input{
+    display: block;
+    width: 80%;
+    font-size: 25px;
+    padding: 5px 5px 5px 15px;
+    margin: auto;
+    margin-top: 5px;
+    border: 3px solid rgb(182, 244, 131);
+    border-radius: 5px;
+}
+textarea{
+    resize: none;
+}
+
+.editnewsuser-button{
+    background-color: rgb(182, 244, 131);
+    border: 0;
+    padding: 8px 20px;
+    font-size: 25px;
+    margin-top: 15px;
+    border-radius: 10px;
+}

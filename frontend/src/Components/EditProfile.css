@@ -1,0 +1,42 @@
+
+
+.editprofile-main{
+    background-color: rgb(253, 251, 242);
+    height:  780px;
+}
+
+.editprofile-profile{
+    background-color: rgb(249, 245, 218);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.editprofile-input{
+    display: block;
+    padding: 5px 10px 5px 20px;
+    font-size: 25px;
+    border-radius: 10px;
+    width: 80%;
+    border: 3px solid rgb(241, 222, 119);
+    margin: auto;
+    margin-top: 5px;
+}
+
+.editprofile-button{
+    background-color: rgb(249, 217, 38);
+    margin-left: 40%;
+    padding: 5px 10px;
+    font-size: 25px;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.editprofile-error{
+    color: red;
+    display: block;
+    margin-left: 10%;
+    font-weight: bold;
+}
+

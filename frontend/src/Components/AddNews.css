@@ -1,0 +1,40 @@
+.add-news-main{
+    margin: auto;
+    background-color: rgb(221, 250, 242);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.add-news-base{
+    height: 780px;
+    background-color:rgb(236, 250, 246);
+}
+
+.add-news-input{
+    display: block;
+    border: 3px solid rgb(137, 253, 218);
+    width: 80%;
+    font-size: 25px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 7px;
+}
+
+.add-news-button{
+    background-color: rgb(137, 253, 218);
+    border: 0;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.add-news-main textarea{
+    resize: none;
+}
+
+.addnews-set-error{
+    color: red;
+    position: relative;
+    left: 20px;
+}

@@ -1,0 +1,35 @@
+.addnewsuser-base{
+    background-color: rgb(242, 252, 248);
+    height:  780px;
+}
+
+.addnewsuser-main{
+    background-color: rgb(223, 239, 233);
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.addnewsuser-name{
+    color: rgb(60, 97, 83);
+    text-decoration: underline;
+}
+
+.addnewsuser-input{
+    display: block;
+    margin: 5px 5px 5px 10%;
+    width: 80%;
+    font-size: 25px;
+    padding: 5px 5px 5px 10px;
+    border: 3px solid rgb(163, 245, 213);
+    color: rgb(87, 113, 103);
+    border-radius: 10px;
+}
+.addnewsuser-button{
+    font-size: 25px;
+    padding: 7px;
+    background-color: rgb(189, 223, 210);
+    border: 0;
+    border-radius: 7px;
+    margin-top: 10px;
+}

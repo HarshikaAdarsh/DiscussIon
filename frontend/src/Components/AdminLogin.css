@@ -1,0 +1,31 @@
+.adminlogin-base{
+    height: 780px;
+    background-color: rgb(239, 252, 252);
+}
+
+.adminlogin-main{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(213, 232, 232);
+}
+
+.adminlogin-input{
+    display: block;
+    width: 80%;
+    margin: auto;
+    font-size: 25px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+    border: 3px solid rgb(138, 193, 193);
+    color: rgb(71, 110, 110);
+}
+
+.adminlogin-button{
+    font-size: 25px;
+    padding: 5px 25px;
+    background-color: rgb(166, 186, 186);
+    margin-top: 20px;
+    border: 0;
+    border-radius: 10px;
+}
