@@ -58,7 +58,7 @@ Contribute and share trending articles.
 * Clone the repository to your local machine. Git clone  https://github.com/HarshikaAdarsh/DiscussIon
 
 ###### for frontend 
-* Navigate to the project directory front end .
+* Navigate to the project directory front end.
 cd frontend  
 
 * Install dependencies.
@@ -67,8 +67,8 @@ npm install
 * Running the Application
 npm start
 
-###### for frontend 
-* Navigate to the project directory Backend .
+###### for backend 
+* Navigate to the project directory Backend.
 cd backend
 
 * Install dependencies.
