@@ -11,8 +11,8 @@ Welcome to our MERN News Portal – a robust web application that combines the p
 
 ### Admin Dashboard:
 
-##### Authentication:
- Secure login and registration for admin users.
+##### Authentication: 
+Secure login and registration for admin users.
 
 ##### News Management:
 Add, delete, and modify news articles with ease.
@@ -55,24 +55,30 @@ Contribute and share trending articles.
 
 #### Installation
 
-* Clone the repository to your local machine.
-git clone 
+* Clone the repository to your local machine. Git clone  https://github.com/HarshikaAdarsh/DiscussIon
 
-* Navigate to the project directory.
-cd DiscussIon
+###### for frontend 
+* Navigate to the project directory front end .
+cd frontend  
 
 * Install dependencies.
-npm install
+npm install 
+
+* Running the Application
+npm start
+
+###### for frontend 
+* Navigate to the project directory Backend .
+cd backend
+
+* Install dependencies.
+1. npm install  
+2. npm i nodemon
+
+* Running the Application
+ run server nodemon
 
 #### Configuration
 
 * Set up the MongoDB database and configure connection settings in the application.
-* Update API keys for external services if necessary
 
-
-#### Running the Application
-
-npm start
-Visit http://localhost:3000 in your browser to access Fasal Guru.
-
-![Uploading fasalgurudonation.png…]()
